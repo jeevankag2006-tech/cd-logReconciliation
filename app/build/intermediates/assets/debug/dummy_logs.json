@@ -1,0 +1,31 @@
+[
+  {
+    "id": "LOG-001",
+    "timestamp": 1715846400000,
+    "service": "Service A",
+    "message": "User login successful: user_id=987",
+    "level": "INFO"
+  },
+  {
+    "id": "LOG-002",
+    "timestamp": 1715846401500,
+    "service": "Service B",
+    "message": "Processing payment: amount=50.00",
+    "level": "INFO"
+  },
+  {
+    "id": "LOG-001",
+    "timestamp": 1715846400000,
+    "service": "Service A",
+    "message": "User login successful: user_id=987",
+    "level": "INFO",
+    "isDuplicate": true
+  },
+  {
+    "id": "LOG-004",
+    "timestamp": 1715846405000,
+    "service": "Service C",
+    "message": "Database connection timeout",
+    "level": "ERROR"
+  }
+]

@@ -1,0 +1,55 @@
+com.distlog.reconciliation.app-ui-test-manifest-1.5.1-0 /Users/chintu/.gradle/caches/transforms-3/02e412647bea1b319df5e30e690a2e89/transformed/ui-test-manifest-1.5.1/res
+com.distlog.reconciliation.app-startup-runtime-1.1.1-1 /Users/chintu/.gradle/caches/transforms-3/0d9bc86ba08c92811f1c778099b189a7/transformed/startup-runtime-1.1.1/res
+com.distlog.reconciliation.app-lifecycle-viewmodel-savedstate-2.7.0-2 /Users/chintu/.gradle/caches/transforms-3/1a221ccdfff1b6a774d02d6cc95fd6aa/transformed/lifecycle-viewmodel-savedstate-2.7.0/res
+com.distlog.reconciliation.app-datastore-preferences-1.0.0-3 /Users/chintu/.gradle/caches/transforms-3/1c545df7a620b9b9c6dda61fb06b6ea5/transformed/datastore-preferences-1.0.0/res
+com.distlog.reconciliation.app-navigation-runtime-2.7.7-4 /Users/chintu/.gradle/caches/transforms-3/216211048e584373c1c47ef8568cd46f/transformed/navigation-runtime-2.7.7/res
+com.distlog.reconciliation.app-ui-tooling-data-release-5 /Users/chintu/.gradle/caches/transforms-3/22e9b01b776065be73d39e537723de85/transformed/ui-tooling-data-release/res
+com.distlog.reconciliation.app-ui-tooling-preview-release-6 /Users/chintu/.gradle/caches/transforms-3/29853e6ccc41224b9ad2dc1b136e03fa/transformed/ui-tooling-preview-release/res
+com.distlog.reconciliation.app-emoji2-1.4.0-7 /Users/chintu/.gradle/caches/transforms-3/2d799fa81aa0009b047008ec9e9becf9/transformed/emoji2-1.4.0/res
+com.distlog.reconciliation.app-material-icons-core-release-8 /Users/chintu/.gradle/caches/transforms-3/337b27e99e460e222148745ad7b9e80a/transformed/material-icons-core-release/res
+com.distlog.reconciliation.app-navigation-common-ktx-2.7.7-9 /Users/chintu/.gradle/caches/transforms-3/3402740504b72b5ba53a0cac63e08eb3/transformed/navigation-common-ktx-2.7.7/res
+com.distlog.reconciliation.app-core-runtime-2.2.0-10 /Users/chintu/.gradle/caches/transforms-3/35c24a2db80437d7da92fcfa4f8f41ac/transformed/core-runtime-2.2.0/res
+com.distlog.reconciliation.app-annotation-experimental-1.3.0-11 /Users/chintu/.gradle/caches/transforms-3/41f1d1d3b624c2db9c7c1b8ccf10cee3/transformed/annotation-experimental-1.3.0/res
+com.distlog.reconciliation.app-lifecycle-process-2.7.0-12 /Users/chintu/.gradle/caches/transforms-3/432c4e47362ec34698903dc763999d0b/transformed/lifecycle-process-2.7.0/res
+com.distlog.reconciliation.app-core-ktx-1.12.0-13 /Users/chintu/.gradle/caches/transforms-3/448ea59dfd419144144391b95ecd69db/transformed/core-ktx-1.12.0/res
+com.distlog.reconciliation.app-savedstate-1.2.1-14 /Users/chintu/.gradle/caches/transforms-3/503b9a007cb939179ba004f7f4553544/transformed/savedstate-1.2.1/res
+com.distlog.reconciliation.app-ui-geometry-release-15 /Users/chintu/.gradle/caches/transforms-3/5630c148e1d9775162e475e90d093378/transformed/ui-geometry-release/res
+com.distlog.reconciliation.app-material3-1.1.1-16 /Users/chintu/.gradle/caches/transforms-3/5c2a853fccbee98bce4b6c0c65a09941/transformed/material3-1.1.1/res
+com.distlog.reconciliation.app-material-ripple-release-17 /Users/chintu/.gradle/caches/transforms-3/6483c39986acf799de6fb71fb4b70245/transformed/material-ripple-release/res
+com.distlog.reconciliation.app-ui-release-18 /Users/chintu/.gradle/caches/transforms-3/699e44c09900cbf6884a136b6aa2afcc/transformed/ui-release/res
+com.distlog.reconciliation.app-customview-poolingcontainer-1.0.0-19 /Users/chintu/.gradle/caches/transforms-3/6b3aefa22fe0dced00e5670f5ee3e64e/transformed/customview-poolingcontainer-1.0.0/res
+com.distlog.reconciliation.app-ui-tooling-release-20 /Users/chintu/.gradle/caches/transforms-3/6e4886fe0d74503c9dae444692ff41fb/transformed/ui-tooling-release/res
+com.distlog.reconciliation.app-lifecycle-livedata-core-2.7.0-21 /Users/chintu/.gradle/caches/transforms-3/6ef33d36e794e6f8c89ed24dcf81eb91/transformed/lifecycle-livedata-core-2.7.0/res
+com.distlog.reconciliation.app-activity-1.8.2-22 /Users/chintu/.gradle/caches/transforms-3/71da01ea0afba8b8e57316c4bf48d790/transformed/activity-1.8.2/res
+com.distlog.reconciliation.app-lifecycle-runtime-2.7.0-23 /Users/chintu/.gradle/caches/transforms-3/77b28a4876465eb5e7297b1992bf59a7/transformed/lifecycle-runtime-2.7.0/res
+com.distlog.reconciliation.app-lifecycle-viewmodel-ktx-2.7.0-24 /Users/chintu/.gradle/caches/transforms-3/815d88dbe9c298394aac408f1fe3d08a/transformed/lifecycle-viewmodel-ktx-2.7.0/res
+com.distlog.reconciliation.app-runtime-saveable-release-25 /Users/chintu/.gradle/caches/transforms-3/84b58eae3bd3622f1b7fae4dd2d7a4a9/transformed/runtime-saveable-release/res
+com.distlog.reconciliation.app-activity-compose-1.8.2-26 /Users/chintu/.gradle/caches/transforms-3/85693cada1554d7d3666920ded9d82c0/transformed/activity-compose-1.8.2/res
+com.distlog.reconciliation.app-ui-util-release-27 /Users/chintu/.gradle/caches/transforms-3/8a0e3ac761106252db3d0c5890e900fa/transformed/ui-util-release/res
+com.distlog.reconciliation.app-navigation-common-2.7.7-28 /Users/chintu/.gradle/caches/transforms-3/8c2d38a2d12221979f714efa851dc03f/transformed/navigation-common-2.7.7/res
+com.distlog.reconciliation.app-savedstate-ktx-1.2.1-29 /Users/chintu/.gradle/caches/transforms-3/98c5dbe34ce089727dd61b4880d3d461/transformed/savedstate-ktx-1.2.1/res
+com.distlog.reconciliation.app-lifecycle-viewmodel-2.7.0-30 /Users/chintu/.gradle/caches/transforms-3/99c09a2563c7c900f3db2f69a1ee2d89/transformed/lifecycle-viewmodel-2.7.0/res
+com.distlog.reconciliation.app-foundation-release-31 /Users/chintu/.gradle/caches/transforms-3/9e71695c84710f256423b2b8650a3936/transformed/foundation-release/res
+com.distlog.reconciliation.app-animation-core-release-32 /Users/chintu/.gradle/caches/transforms-3/9eae162617ff36b426501fa505d5b858/transformed/animation-core-release/res
+com.distlog.reconciliation.app-activity-ktx-1.8.2-33 /Users/chintu/.gradle/caches/transforms-3/b27b17df1289324c707a3dd617f55465/transformed/activity-ktx-1.8.2/res
+com.distlog.reconciliation.app-navigation-runtime-ktx-2.7.7-34 /Users/chintu/.gradle/caches/transforms-3/bbe23847b7cd40f08570ff3aab7bf2d8/transformed/navigation-runtime-ktx-2.7.7/res
+com.distlog.reconciliation.app-material-icons-extended-release-35 /Users/chintu/.gradle/caches/transforms-3/c12d1e4c04dbd2dc005f15738484e46b/transformed/material-icons-extended-release/res
+com.distlog.reconciliation.app-lifecycle-runtime-ktx-2.7.0-36 /Users/chintu/.gradle/caches/transforms-3/c33f93ba1085f89233b8aeeeb32a53f9/transformed/lifecycle-runtime-ktx-2.7.0/res
+com.distlog.reconciliation.app-ui-graphics-release-37 /Users/chintu/.gradle/caches/transforms-3/c73dd1f7f6a0c22da82f29d62c7eb1b4/transformed/ui-graphics-release/res
+com.distlog.reconciliation.app-runtime-release-38 /Users/chintu/.gradle/caches/transforms-3/c8c2852bd04c9fdfeb241a727f44f499/transformed/runtime-release/res
+com.distlog.reconciliation.app-datastore-1.0.0-39 /Users/chintu/.gradle/caches/transforms-3/c97088b2817998fdb8002bf1f64a5118/transformed/datastore-1.0.0/res
+com.distlog.reconciliation.app-material-release-40 /Users/chintu/.gradle/caches/transforms-3/d0c9cd8abd446fbe1f6d4e0f8d36a549/transformed/material-release/res
+com.distlog.reconciliation.app-lifecycle-viewmodel-compose-2.7.0-41 /Users/chintu/.gradle/caches/transforms-3/d6efa157880ea448a2f7583a81d24119/transformed/lifecycle-viewmodel-compose-2.7.0/res
+com.distlog.reconciliation.app-core-1.12.0-42 /Users/chintu/.gradle/caches/transforms-3/da024fe9a862a975dbe894dae3fd994a/transformed/core-1.12.0/res
+com.distlog.reconciliation.app-foundation-layout-release-43 /Users/chintu/.gradle/caches/transforms-3/e6668c785d288979bfd9418ddbeef339/transformed/foundation-layout-release/res
+com.distlog.reconciliation.app-navigation-compose-2.7.7-44 /Users/chintu/.gradle/caches/transforms-3/ea7ef8552c2209c10bcdff584d1b173a/transformed/navigation-compose-2.7.7/res
+com.distlog.reconciliation.app-ui-unit-release-45 /Users/chintu/.gradle/caches/transforms-3/f3306c2152c5833f0ff45a887d950732/transformed/ui-unit-release/res
+com.distlog.reconciliation.app-profileinstaller-1.3.0-46 /Users/chintu/.gradle/caches/transforms-3/f9570c9db31db6247ccfa45c8917d8f4/transformed/profileinstaller-1.3.0/res
+com.distlog.reconciliation.app-animation-release-47 /Users/chintu/.gradle/caches/transforms-3/fbd6ea63004ed17b34ab2fd15bca9dda/transformed/animation-release/res
+com.distlog.reconciliation.app-ui-text-release-48 /Users/chintu/.gradle/caches/transforms-3/ff25885e318f6fafb57bfef4c16faf5f/transformed/ui-text-release/res
+com.distlog.reconciliation.app-resValues-49 /Users/chintu/Desktop/log hacothon/app/build/generated/res/resValues/debug
+com.distlog.reconciliation.app-packageDebugResources-50 /Users/chintu/Desktop/log hacothon/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.distlog.reconciliation.app-packageDebugResources-51 /Users/chintu/Desktop/log hacothon/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.distlog.reconciliation.app-merged_res-52 /Users/chintu/Desktop/log hacothon/app/build/intermediates/merged_res/debug
+com.distlog.reconciliation.app-debug-53 /Users/chintu/Desktop/log hacothon/app/src/debug/res
+com.distlog.reconciliation.app-main-54 /Users/chintu/Desktop/log hacothon/app/src/main/res
